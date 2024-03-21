@@ -1,2 +1,3 @@
-# blog-web-app
-a simple blog web application 
+# Blog
+
+To run the app : npm app.js
